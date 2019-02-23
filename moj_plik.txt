@@ -1,1 +1,4 @@
 Hello SDA
+
+nowa funcjonalnosc
+int = 0;
