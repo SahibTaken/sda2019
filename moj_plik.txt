@@ -2,3 +2,7 @@ Hello SDA
 
 nowa funcjonalnosc
 int = 0;
+int =6;
+
+ private string = 5;
+ private string = 5;
